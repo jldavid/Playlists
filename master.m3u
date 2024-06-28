@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CNN (720p)" tvg-logo="https://i.imgur.com/UuicPzG.png?verified" tvg-id="CNN.us" group-title="News",CNN
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/UuicPzG.png?verified" tvg-id="CNN.us" group-title="News",CNN (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
