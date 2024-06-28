@@ -14,3 +14,6 @@ https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr" tvg-logo="https://i.imgur.com/1a5I1fG.jpeg?verified" group-title="Kids",Nick Jr (720p)
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="PBSKids" tvg-logo="https://i.imgur.com/oyopCjk.jpeg?verified" group-title="Kids",PBS Kids (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
