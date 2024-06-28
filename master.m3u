@@ -11,3 +11,6 @@ https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD" tvg-logo="https://i.imgur.com/j2bxJc6.jpeg?verified" group-title="Kids",Disney XD (720p)
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr" tvg-logo="https://i.imgur.com/1a5I1fG.jpeg?verified" group-title="Kids",Nick Jr (720p)
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
