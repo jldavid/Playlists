@@ -1,5 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/UuicPzG.png?verified" group-title="News",CNN (720p)
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/s3XqPwb.jpeg?verified" group-title="News",CNN (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="CBS" tvg-logo="https://i.imgur.com/BfyN4kM.jpeg?verified" group-title="News",CBS News (720p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
