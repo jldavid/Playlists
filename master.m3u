@@ -17,3 +17,6 @@ https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="PBSKids" tvg-logo="https://i.imgur.com/oyopCjk.jpeg?verified" group-title="Kids",PBS Kids (720p)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://i.imgur.com/hFvFIA6.jpeg?verified" group-title="Premium",HBO 2 (720p)
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
