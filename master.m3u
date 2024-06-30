@@ -27,7 +27,7 @@ https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="TYT" tvg-logo="https://i.imgur.com/yet2rgo.jpeg?verified" group-title="News",The Young Turks (TYT) (1080p)
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="TheGuardian" tvg-logo="" group-title="News",The Guardian
+#EXTINF:-1 tvg-id="TheGuardian" tvg-logo="https://i.imgur.com/4neGbb3.jpeg?verified" group-title="News",The Guardian
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SkyNewsExtra1" tvg-logo="" group-title="News",Sky News Extra 1 (540p)
