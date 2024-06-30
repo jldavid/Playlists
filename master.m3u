@@ -21,5 +21,26 @@ https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="PBSKids" tvg-logo="https://i.imgur.com/oyopCjk.jpeg?verified" group-title="Kids",PBS Kids (720p)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://i.imgur.com/hFvFIA6.jpeg?verified" group-title="Premium",HBO 2 (720p)
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://i.imgur.com/blyIYwR.jpeg?verified" group-title="Premium",HBO 2 (720p)
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-id="TYT" tvg-logo="https://i.imgur.com/yet2rgo.jpeg?verified" group-title="News",The Young Turks (TYT) (1080p)
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="TheGuardian" tvg-logo="" group-title="News",The Guardian
+https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsExtra1" tvg-logo="" group-title="News",Sky News Extra 1 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master960x540.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsNow" tvg-logo="" group-title="News",Fox News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlistwebvtt.m3u8
+
+#EXTINF:-1 tvg-id="EntertainmentTonight" tvg-logo="" group-title="News",Entertainment Tonight (720p)
+https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
+
+#EXTINF:-1 tvg-id="CityNewsToronto" tvg-logo="" group-title="News",City News Toronto (720p)
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+
+#EXTINF:-1 tvg-id="CBCNews" tvg-logo="" group-title="News",CBC News (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/1920x1080_4540800/index.m3u8
