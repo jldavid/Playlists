@@ -24,6 +24,9 @@ https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://i.imgur.com/BcTuADz.jpeg?verified" group-title="Kids",Dora TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949&serverSideAds=false
 
+#EXTINF:-1 tvg-id="MoonbugKids" tvg-logo="https://i.imgur.com/7GdHtYN.jpeg?verified" group-title="Kids",Moonbug Kids (1080p)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://i.imgur.com/blyIYwR.jpeg?verified" group-title="Premium",HBO 2 (720p)
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 
@@ -44,3 +47,6 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 
 #EXTINF:-1 tvg-id="CBCNews" tvg-logo="https://i.imgur.com/FRZgtxn.jpeg?verified" group-title="News",CBC News (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/1920x1080_4540800/index.m3u8
+
+#EXTINF:-1 tvg-id="TMZ" tvg-logo="https://i.imgur.com/O7fYx8c.jpeg?verified" group-title="Entertainment",TMZ (720p)
+https://lnc-tmz.tubi.video/index.m3u8
