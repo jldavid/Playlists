@@ -6,7 +6,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-logo="https://i.imgur.com/XsyEwju.jpeg?verified" group-title="News",CBS News (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive" tvg-logo="https://i.imgur.com/BfyN4kM.jpeg?verified" group-title="News",ABC News Live
+#EXTINF:-1 tvg-id="ABCNewsLive" tvg-logo="https://i.imgur.com/9Vu1Qce.jpeg?verified" group-title="News",ABC News Live
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 tvg-id="CBCNews" tvg-logo="https://i.imgur.com/FRZgtxn.jpeg?verified" group-title="News",CBC News (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/1920x1080_4540800/index.m3u8
