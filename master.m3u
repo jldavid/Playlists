@@ -2,12 +2,23 @@
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/s3XqPwb.jpeg?verified" group-title="News",CNN (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
 #EXTINF:-1 tvg-id="BBCNews" tvg-logo="https://i.imgur.com/ucxnm8h.jpeg?verified" group-title="News",BBC News (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBS" tvg-logo="https://i.imgur.com/BfyN4kM.jpeg?verified" group-title="News",CBS News (720p)
+#EXTINF:-1 tvg-id="CBS" tvg-logo="https://i.imgur.com/XsyEwju.jpeg?verified" group-title="News",CBS News (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive" tvg-logo="https://i.imgur.com/BfyN4kM.jpeg?verified" group-title="News",ABC News Live
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 tvg-id="CBCNews" tvg-logo="https://i.imgur.com/FRZgtxn.jpeg?verified" group-title="News",CBC News (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/1920x1080_4540800/index.m3u8
+#EXTINF:-1 tvg-id="CityNewsToronto" tvg-logo="https://i.imgur.com/Uz0btOa.jpeg?verified" group-title="News",City News Toronto (720p)
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-id="TYT" tvg-logo="https://i.imgur.com/yet2rgo.jpeg?verified" group-title="News",The Young Turks (TYT) (1080p)
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="TheGuardian" tvg-logo="https://i.imgur.com/4neGbb3.jpeg?verified" group-title="News",The Guardian
+https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsExtra1" tvg-logo="https://i.imgur.com/rpcu3HO.jpeg?verified" group-title="News",Sky News Extra 1 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master960x540.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD" tvg-logo="https://i.imgur.com/j2bxJc6.jpeg?verified" group-title="Kids",Disney XD (720p)
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
@@ -30,23 +41,16 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://i.imgur.com/blyIYwR.jpeg?verified" group-title="Premium",HBO 2 (720p)
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-id="TYT" tvg-logo="https://i.imgur.com/yet2rgo.jpeg?verified" group-title="News",The Young Turks (TYT) (1080p)
-https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="TheGuardian" tvg-logo="https://i.imgur.com/4neGbb3.jpeg?verified" group-title="News",The Guardian
-https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkyNewsExtra1" tvg-logo="https://i.imgur.com/rpcu3HO.jpeg?verified" group-title="News",Sky News Extra 1 (540p)
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master960x540.m3u8
+
 
 #EXTINF:-1 tvg-id="EntertainmentTonight" tvg-logo="https://i.imgur.com/VDrRbRr.jpeg?verified" group-title="Entertainment",Entertainment Tonight (720p)
 https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
 
-#EXTINF:-1 tvg-id="CityNewsToronto" tvg-logo="https://i.imgur.com/Uz0btOa.jpeg?verified" group-title="News",City News Toronto (720p)
-https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
-#EXTINF:-1 tvg-id="CBCNews" tvg-logo="https://i.imgur.com/FRZgtxn.jpeg?verified" group-title="News",CBC News (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/1920x1080_4540800/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="TMZ" tvg-logo="https://i.imgur.com/O7fYx8c.jpeg?verified" group-title="Entertainment",TMZ (720p)
 https://lnc-tmz.tubi.video/index.m3u8
