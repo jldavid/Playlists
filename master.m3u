@@ -1,11 +1,10 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/s3XqPwb.jpeg?verified" group-title="News",CNN (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="MSNBC" tvg-logo="https://i.imgur.com/yzyeXmh.jpeg?verified" group-title="News",MSNBC (720p)
+http://41.205.93.154:80/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews" tvg-logo="https://i.imgur.com/ucxnm8h.jpeg?verified" group-title="News",BBC News (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNow" tvg-logo="https://i.imgur.com/928RGYM.jpeg?verified" group-title="News",NBC News Now (720p)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-logo="https://i.imgur.com/XsyEwju.jpeg?verified" group-title="News",CBS News (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive" tvg-logo="https://i.imgur.com/9Vu1Qce.jpeg?verified" group-title="News",ABC News Live (720p)
@@ -20,6 +19,8 @@ https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNewsExtra1" tvg-logo="https://i.imgur.com/rpcu3HO.jpeg?verified" group-title="News",Sky News Extra 1 (540p)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master960x540.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNow" tvg-logo="https://i.imgur.com/928RGYM.jpeg?verified" group-title="News",NBC News Now (720p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD" tvg-logo="https://i.imgur.com/j2bxJc6.jpeg?verified" group-title="Kids",Disney XD (720p)
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
