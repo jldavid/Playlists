@@ -50,3 +50,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/1920x1080_45408
 
 #EXTINF:-1 tvg-id="TMZ" tvg-logo="https://i.imgur.com/O7fYx8c.jpeg?verified" group-title="Entertainment",TMZ (720p)
 https://lnc-tmz.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-id="Baywatch.us" tvg-logo="https://i.imgur.com/UwOVpq8.jpeg?verified" group-title="TV Series",Baywatch
+https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
