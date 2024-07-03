@@ -17,9 +17,9 @@ https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master960x540.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNow" tvg-logo="https://i.imgur.com/928RGYM.jpeg?verified" group-title="News",NBC News Now (720p)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 group-title="News",Fox Live Now (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5E5k6wl.jpeg?verified" group-title="News",Fox Live Now (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Live-Now.m3u8
-#EXTINF:-1 channel-id="samsung-USBD700003L7" tvg-id="USBD700003L7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20240520T222853SQUARE.png" tvg-chno="1130" group-title="News",FOX Weather
+#EXTINF:-1 channel-id="samsung-USBD700003L7" tvg-id="USBD700003L7" tvg-logo="https://i.imgur.com/0M03c7t.jpeg?verified" tvg-chno="1130" group-title="News",FOX Weather (1080p)
 https://jmp2.uk/SamsungTVPlus/USBD700003L7.m3u8
 #EXTINF:-1 tvg-id="TYT" tvg-logo="https://i.imgur.com/yet2rgo.jpeg?verified" group-title="News",The Young Turks (TYT) (1080p)
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
