@@ -19,6 +19,8 @@ https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master960x540.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNow" tvg-logo="https://i.imgur.com/928RGYM.jpeg?verified" group-title="News",NBC News Now (720p)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 group-title="News",Fox Live Now (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Live-Now.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD" tvg-logo="https://i.imgur.com/j2bxJc6.jpeg?verified" group-title="Kids",Disney XD (720p)
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
@@ -36,6 +38,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tayo" tvg-logo="https://i.imgur.com/PI9KupT.jpeg?verified" group-title="Kids",Tayo the Little Bus (720p)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+#EXTINF:-1 tvg-id="MrBeast" tvg-logo="https://i.imgur.com/36y7x8L.jpeg?verified" group-title="Kids",Mr Beast Channel (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Mr-Beast.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://i.imgur.com/blyIYwR.jpeg?verified" group-title="Premium",HBO 2 (720p)
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
