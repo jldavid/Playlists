@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/s3XqPwb.jpeg?verified" group-title="News",CNN (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="MSNBC" tvg-logo="https://i.imgur.com/yzyeXmh.jpeg?verified" group-title="News",MSNBC (720p)
-http://41.205.93.154:80/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews" tvg-logo="https://i.imgur.com/ucxnm8h.jpeg?verified" group-title="News",BBC News (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS" tvg-logo="https://i.imgur.com/XsyEwju.jpeg?verified" group-title="News",CBS News (720p)
