@@ -47,7 +47,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,M
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.imgur.com/oK6P9HZ.jpeg?verified" group-title="Premium",TNT (720p)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 channel-id="samsung-USAJ26000054W" tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20240520T222740SQUARE.png" tvg-chno="1250" group-title="Premium",Paramount Movie Channel
+#EXTINF:-1 channel-id="samsung-USAJ26000054W" tvg-id="USAJ26000054W" tvg-logo="https://i.imgur.com/6mpMmBW.jpeg?verified" group-title="Premium",Paramount Movie Channel (720p)
 https://jmp2.uk/SamsungTVPlus/USAJ26000054W.m3u8
 
 #EXTINF:-1 tvg-id="EntertainmentTonight" tvg-logo="https://i.imgur.com/VDrRbRr.jpeg?verified" group-title="Entertainment",Entertainment Tonight (720p)
@@ -63,7 +63,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://jmp2.uk/SamsungTVPlus/US300003S3.m3u8
 #EXTINF:-1 channel-id="samsung-CABB2500023RK" tvg-id="CABB2500023RK" tvg-logo="https://i.imgur.com/kC5RGF0.jpeg?verified" tvg-chno="1143" group-title="TV Series",Deal or No Deal (1080p)
 https://jmp2.uk/SamsungTVPlus/CABB2500023RK.m3u8
-#EXTINF:-1 channel-id="samsung-USBA3000042O6" tvg-id="USBA3000042O6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000042O6_20240520T221248SQUARE.png" tvg-chno="1905" group-title="TV Series",Kitchen Nightmares
+#EXTINF:-1 channel-id="samsung-USBA3000042O6" tvg-id="USBA3000042O6" tvg-logo="https://i.imgur.com/vyjGSps.jpeg?verified" tvg-chno="1905" group-title="TV Series",Kitchen Nightmares
 https://jmp2.uk/SamsungTVPlus/USBA3000042O6.m3u8
 #EXTINF:-1 channel-id="samsung-US1800015K5" tvg-id="US1800015K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800015K5_20240702T044859SQUARE.png" tvg-chno="2635" group-title="TV Series",National Lampoon
 https://jmp2.uk/SamsungTVPlus/US1800015K5.m3u8
