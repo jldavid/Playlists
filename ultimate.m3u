@@ -30,8 +30,6 @@ https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
 #EXTINF:-1 tvg-id="NickJr" tvg-logo="https://i.imgur.com/1a5I1fG.jpeg?verified" group-title="Kids",Nick Jr (720p)
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 channel-id="samsung-US9000032J" tvg-id="US9000032J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US9000032J_20240528T020924SQUARE.png" tvg-chno="3630" group-title="Kids",Blippi
-https://jmp2.uk/SamsungTVPlus/US9000032J.m3u8
 #EXTINF:-1 tvg-id="PBSKids" tvg-logo="https://i.imgur.com/oyopCjk.jpeg?verified" group-title="Kids",PBS Kids (720p)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney" tvg-logo="https://i.imgur.com/BgzJJHw.jpeg?verified" group-title="Kids",Disney Channel (720p)
@@ -65,8 +63,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://jmp2.uk/SamsungTVPlus/US300003S3.m3u8
 #EXTINF:-1 channel-id="samsung-CABB2500023RK" tvg-id="CABB2500023RK" tvg-logo="https://i.imgur.com/kC5RGF0.jpeg?verified" tvg-chno="1143" group-title="TV Series",Deal or No Deal (1080p)
 https://jmp2.uk/SamsungTVPlus/CABB2500023RK.m3u8
-#EXTINF:-1 channel-id="samsung-USBB2900002Z7" tvg-id="USBB2900002Z7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20240702T044822SQUARE.png" tvg-chno="1000" group-title="TV Series",Hell's Kitchen
-https://jmp2.uk/SamsungTVPlus/USBB2900002Z7.m3u8
 #EXTINF:-1 channel-id="samsung-USBA3000042O6" tvg-id="USBA3000042O6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000042O6_20240520T221248SQUARE.png" tvg-chno="1905" group-title="TV Series",Kitchen Nightmares
 https://jmp2.uk/SamsungTVPlus/USBA3000042O6.m3u8
 #EXTINF:-1 channel-id="samsung-US1800015K5" tvg-id="US1800015K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800015K5_20240702T044859SQUARE.png" tvg-chno="2635" group-title="TV Series",National Lampoon
@@ -75,8 +71,6 @@ https://jmp2.uk/SamsungTVPlus/US1800015K5.m3u8
 https://jmp2.uk/SamsungTVPlus/USBD700012OA.m3u8
 #EXTINF:-1 channel-id="samsung-USBB32000251N" tvg-id="USBB32000251N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000251N_20240520T215957SQUARE.png" tvg-chno="2914" group-title="TV Series",Today All Day
 https://jmp2.uk/SamsungTVPlus/USBB32000251N.m3u8
-#EXTINF:-1 channel-id="samsung-USBA3800004EL" tvg-id="USBA3800004EL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20240625T011353SQUARE.png" tvg-chno="4585" group-title="TV Series",Fireplace 4K
-https://jmp2.uk/SamsungTVPlus/USBA3800004EL.m3u8
 
 #EXTINF:-1 channel-id="nhl.us" tvg-id="CA1400001PI" tvg-logo="https://i.imgur.com/qbnkdsX.jpeg?verified" tvg-chno="1148" group-title="Sports",NHL Channel (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NHL.m3u8
@@ -86,8 +80,6 @@ https://jmp2.uk/SamsungTVPlus/CA1400001PI.m3u8
 https://jmp2.uk/SamsungTVPlus/CABD1200008JG.m3u8
 #EXTINF:-1 channel-id="samsung-USBD420002446" tvg-id="USBD420002446" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20240528T020945SQUARE.png" tvg-chno="2338" group-title="Sports",NBC Sports
 https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8
-#EXTINF:-1 channel-id="samsung-USBB4800005VO" tvg-id="USBB4800005VO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20240520T220042SQUARE.png" tvg-chno="2330" group-title="Sports",CBS Sports HQ
-https://jmp2.uk/SamsungTVPlus/USBB4800005VO.m3u8
 #EXTINF:-1 channel-id="samsung-USBD700013BW" tvg-id="USBD700013BW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700013BW_20240611T050255SQUARE.png" tvg-chno="2358" group-title="Sports",DraftKings Network
 https://jmp2.uk/SamsungTVPlus/USBD700013BW.m3u8
 #EXTINF:-1 channel-id="samsung-US400001M2" tvg-id="US400001M2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400001M2_20240520T220124SQUARE.png" tvg-chno="2436" group-title="Sports",PGA Tour
