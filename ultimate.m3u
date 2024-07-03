@@ -54,6 +54,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 channel-id="samsung-CABB2500023RK" tvg-id="CABB2500023RK" tvg-logo="https://i.imgur.com/kC5RGF0.jpeg?verified" tvg-chno="1143" group-title="TV Series",Deal or No Deal (1080p)
 https://jmp2.uk/SamsungTVPlus/CABB2500023RK.m3u8
 
+#EXTINF:-1 channel-id="nhl.us" tvg-id="CA1400001PI" tvg-logo="https://i.imgur.com/Mml1LE3.jpeg?verified" tvg-chno="1148" group-title="Sports",NHL Channel (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NHL.m3u8
 #EXTINF:-1 channel-id="mlb.us" tvg-id="CA1400001PI" tvg-logo="https://i.imgur.com/KZSS5RP.jpeg?verified" tvg-chno="1148" group-title="Sports",MLB Channel (1080p)
 https://jmp2.uk/SamsungTVPlus/CA1400001PI.m3u8
 #EXTINF:-1 channel-id="FIFA+.us" tvg-id="FIFA+.us" tvg-logo="https://i.imgur.com/6I8wvGL.jpeg?verified" tvg-chno="1156" group-title="Sports",FIFA+ (720p)
