@@ -55,15 +55,15 @@ https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master
 #EXTINF:-1 tvg-id="TMZ" tvg-logo="https://i.imgur.com/O7fYx8c.jpeg?verified" group-title="Entertainment",TMZ (720p)
 https://lnc-tmz.tubi.video/index.m3u8
 
-#EXTINF:-1 tvg-id="Baywatch.us" tvg-logo="https://i.imgur.com/UwOVpq8.jpeg?verified" group-title="TV Series",Baywatch
+#EXTINF:-1 tvg-id="Baywatch.us" tvg-logo="https://i.imgur.com/UwOVpq8.jpeg?verified" group-title="TV Series",Baywatch (720p)
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="FamilyTies.us" tvg-logo="https://i.imgur.com/r99Fd57.jpeg?verified" group-title="TV Series",Family Ties
+#EXTINF:-1 tvg-id="FamilyTies.us" tvg-logo="https://i.imgur.com/r99Fd57.jpeg?verified" group-title="TV Series",Family Ties (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca60-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2d96a4ae-0762-4da9-b4eb-3198467ed4a1&serverSideAds=false
-#EXTINF:-1 channel-id="samsung-US300003S3" tvg-id="US300003S3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300003S3_20240702T044901SQUARE.png" tvg-chno="1002" group-title="TV Series",Pawn Stars
+#EXTINF:-1 channel-id="samsung-US300003S3" tvg-id="US300003S3" tvg-logo="https://i.imgur.com/erGEa5C.jpeg?verified" tvg-chno="1002" group-title="TV Series",Pawn Stars (720p)
 https://jmp2.uk/SamsungTVPlus/US300003S3.m3u8
 #EXTINF:-1 channel-id="samsung-CABB2500023RK" tvg-id="CABB2500023RK" tvg-logo="https://i.imgur.com/kC5RGF0.jpeg?verified" tvg-chno="1143" group-title="TV Series",Deal or No Deal (1080p)
 https://jmp2.uk/SamsungTVPlus/CABB2500023RK.m3u8
-#EXTINF:-1 channel-id="samsung-USBA3000042O6" tvg-id="USBA3000042O6" tvg-logo="https://i.imgur.com/vyjGSps.jpeg?verified" tvg-chno="1905" group-title="TV Series",Kitchen Nightmares
+#EXTINF:-1 channel-id="samsung-USBA3000042O6" tvg-id="USBA3000042O6" tvg-logo="https://i.imgur.com/vyjGSps.jpeg?verified" tvg-chno="1905" group-title="TV Series",Kitchen Nightmares (720p)
 https://jmp2.uk/SamsungTVPlus/USBA3000042O6.m3u8
 #EXTINF:-1 channel-id="samsung-US1800015K5" tvg-id="US1800015K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800015K5_20240702T044859SQUARE.png" tvg-chno="2635" group-title="TV Series",National Lampoon
 https://jmp2.uk/SamsungTVPlus/US1800015K5.m3u8
