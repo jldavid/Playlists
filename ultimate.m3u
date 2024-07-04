@@ -13,13 +13,13 @@ https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/1920x1080_4540800/index.m3u8
 #EXTINF:-1 tvg-id="CityNewsToronto" tvg-logo="https://i.imgur.com/Uz0btOa.jpeg?verified" group-title="News",City News Toronto (720p)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 tvg-id="TheGuardian" tvg-logo="https://i.imgur.com/4neGbb3.jpeg?verified" group-title="News",The Guardian
+#EXTINF:-1 tvg-id="TheGuardian" tvg-logo="https://i.imgur.com/4neGbb3.jpeg?verified" group-title="News",The Guardian (720p)
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNewsExtra1" tvg-logo="https://i.imgur.com/rpcu3HO.jpeg?verified" group-title="News",Sky News Extra 1 (540p)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master960x540.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNow" tvg-logo="https://i.imgur.com/928RGYM.jpeg?verified" group-title="News",NBC News Now (720p)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5E5k6wl.jpeg?verified" group-title="News",Fox Live Now (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5E5k6wl.jpeg?verified" group-title="News",FOX Live Now (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Live-Now.m3u8
 #EXTINF:-1 channel-id="samsung-USBD700003L7" tvg-id="USBD700003L7" tvg-logo="https://i.imgur.com/0M03c7t.jpeg?verified" tvg-chno="1130" group-title="News",FOX Weather (1080p)
 https://jmp2.uk/SamsungTVPlus/USBD700003L7.m3u8
@@ -38,7 +38,7 @@ https://jmp2.uk/SamsungTVPlus/KRBC3500020AF.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney" tvg-logo="https://i.imgur.com/BgzJJHw.jpeg?verified" group-title="Kids",Disney Channel (720p)
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://i.imgur.com/BcTuADz.jpeg?verified" group-title="Kids",Dora TV
+#EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://i.imgur.com/BcTuADz.jpeg?verified" group-title="Kids",Dora TV (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949&serverSideAds=false
 #EXTINF:-1 tvg-id="MoonbugKids" tvg-logo="https://i.imgur.com/7GdHtYN.jpeg?verified" group-title="Kids",Moonbug Kids (1080p)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
