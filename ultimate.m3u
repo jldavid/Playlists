@@ -7,7 +7,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive" tvg-logo="https://i.imgur.com/9Vu1Qce.jpeg?verified" group-title="News",ABC News Live (720p)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 tvg-id="CNNInternational" tvg-logo="https://i.imgur.com/54h5gl5.jpeg?verified" group-title="News",CNN International (720p)
+#EXTINF:-1 tvg-id="CNNInternational" tvg-logo="https://i.imgur.com/QIetizG.jpeg?verified" group-title="News",CNN International (720p)
 https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCNews" tvg-logo="https://i.imgur.com/FRZgtxn.jpeg?verified" group-title="News",CBC News (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/1920x1080_4540800/index.m3u8
