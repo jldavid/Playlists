@@ -13,8 +13,6 @@ https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/1920x1080_4540800/index.m3u8
 #EXTINF:-1 group-title="News",Washington Post
 https://washingtonpost-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="News",USA Today
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
 #EXTINF:-1 tvg-id="CityNewsToronto" tvg-logo="https://i.imgur.com/Uz0btOa.jpeg?verified" group-title="News",City News Toronto (720p)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-id="FoxNews" tvg-logo="https://i.imgur.com/k3UpgYP.jpeg?verified" group-title="News",FOX News Channel (720p)
