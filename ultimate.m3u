@@ -52,9 +52,9 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 #EXTINF:-1 tvg-id="MrBeast" tvg-logo="https://i.imgur.com/36y7x8L.jpeg?verified" group-title="Kids",Mr Beast Channel (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Mr-Beast.m3u8
-#EXTINF:-1 tvg-id="NickelodeonEast.us" group-title="Kids",Nickelodeon (720p)
+#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-logo="https://i.imgur.com/QN8IXWl.jpeg?verified" group-title="Kids",Nickelodeon (720p)
 http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="NicktoonsEast.us" group-title="Kids",NickToons (720p)
+#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://i.imgur.com/IX2akuP.jpeg?verified" group-title="Kids",NickToons (720p)
 http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://i.imgur.com/blyIYwR.jpeg?verified" group-title="Premium",HBO 2 (720p)
