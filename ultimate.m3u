@@ -17,6 +17,8 @@ https://washingtonpost-firetv.amagi.tv/playlist.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
 #EXTINF:-1 tvg-id="CityNewsToronto" tvg-logo="https://i.imgur.com/Uz0btOa.jpeg?verified" group-title="News",City News Toronto (720p)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-id="FoxNews" tvg-logo="https://i.imgur.com/k3UpgYP.jpeg?verified" group-title="News",FOX News Channel (720p)
+https://news.codeautoplaycdn1.workers.dev/?channel=foxnewschannel&codeby=nd
 #EXTINF:-1 tvg-id="TheGuardian" tvg-logo="https://i.imgur.com/4neGbb3.jpeg?verified" group-title="News",The Guardian (720p)
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNewsExtra1" tvg-logo="https://i.imgur.com/rpcu3HO.jpeg?verified" group-title="News",Sky News Extra 1 (540p)
@@ -29,6 +31,8 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Live-Now.m3
 https://jmp2.uk/SamsungTVPlus/USBD700003L7.m3u8
 #EXTINF:-1 tvg-id="TYT" tvg-logo="https://i.imgur.com/yet2rgo.jpeg?verified" group-title="News",The Young Turks (TYT) (1080p)
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" group-title="News",Yahoo! Finance (1080p)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD" tvg-logo="https://i.imgur.com/j2bxJc6.jpeg?verified" group-title="Kids",Disney XD (720p)
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
@@ -36,7 +40,7 @@ https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
 #EXTINF:-1 tvg-id="NickJr" tvg-logo="https://i.imgur.com/1a5I1fG.jpeg?verified" group-title="Kids",Nick Jr (720p)
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="BabySharkTV" tvg-logo="https://i.imgur.com/4gkODr5.jpeg?verified" group-title="Kids",Baby Shark TV (1080p)
+#EXTINF:-1 tvg-id="BabySharkTV" tvg-logo="https://i.imgur.com/q44E1Xq.jpeg?verified" group-title="Kids",Baby Shark TV (1080p)
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSKids" tvg-logo="https://i.imgur.com/oyopCjk.jpeg?verified" group-title="Kids",PBS Kids (720p)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -50,6 +54,10 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 #EXTINF:-1 tvg-id="MrBeast" tvg-logo="https://i.imgur.com/36y7x8L.jpeg?verified" group-title="Kids",Mr Beast Channel (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Mr-Beast.m3u8
+#EXTINF:-1 tvg-id="NickelodeonEast.us" group-title="Kids",Nickelodeon (720p)
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="NicktoonsEast.us" group-title="Kids",NickToons (720p)
+http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://i.imgur.com/blyIYwR.jpeg?verified" group-title="Premium",HBO 2 (720p)
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
@@ -79,6 +87,15 @@ https://jmp2.uk/SamsungTVPlus/US1800015K5.m3u8
 https://jmp2.uk/SamsungTVPlus/USBD700012OA.m3u8
 #EXTINF:-1 channel-id="samsung-USBB32000251N" tvg-id="USBB32000251N" tvg-logo="https://i.imgur.com/1NDPEJd.jpeg?verified" group-title="TV Series",Today All Day (1080p)
 https://jmp2.uk/SamsungTVPlus/USBB32000251N.m3u8
+#EXTINF:-1 tvg-id="VICETV.us" group-title="TV Series",Vice TV
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="NASATVMedia.us" group-title="TV Series",NASA TV Media (720p)
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-id="NASATVPublic.us" group-title="TV Series",NASA TV Public (720p)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="NASATVUHD.us" group-title="TV Series",NASA TV UHD (2160p)
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
+
 
 #EXTINF:-1 channel-id="nhl.us" tvg-id="CA1400001PI" tvg-logo="https://i.imgur.com/qbnkdsX.jpeg?verified" group-title="Sports",NHL Channel (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NHL.m3u8
