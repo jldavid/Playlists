@@ -101,7 +101,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,N
 https://jmp2.uk/SamsungTVPlus/CA1400001PI.m3u8
 #EXTINF:-1 channel-id="FIFA+.us" tvg-id="FIFA+.us" tvg-logo="https://i.imgur.com/6I8wvGL.jpeg?verified" group-title="Sports",FIFA+ (720p)
 https://jmp2.uk/SamsungTVPlus/CABD1200008JG.m3u8
-#EXTINF:-1 group-title="Sports",NFL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG0P0OI.jpeg?verified" group-title="Sports",NFL
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
 #EXTINF:-1 channel-id="samsung-USBD420002446" tvg-id="USBD420002446" tvg-logo="https://i.imgur.com/aIxtQB1.jpeg?verified" group-title="Sports",NBC Sports (1080p)
 https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8
