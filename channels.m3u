@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NNN.us" tvg-logo="https://i.imgur.com/0FNbZCT.png?verified" group-title="News",NNN News (720p)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="BBB.us" tvg-logo="https://i.imgur.com/7JKre7y.png?verified" group-title="News",BBB News (1080p)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="DX.us" tvg-logo="https://i.imgur.com/mGjrnw0.png?verified" group-title="Kids",DX Kids (720p)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="PBB.us" tvg-logo="https://i.imgur.com/6HzmIj4.png?verified" group-title="Kids",PBB Kids (720p)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
