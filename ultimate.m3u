@@ -56,6 +56,8 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,M
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://i.imgur.com/IX2akuP.jpeg?verified" group-title="Kids",NickToons (720p)
 http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="Garfield.us" tvg-logo="https://i.imgur.com/FfdkROW.jpeg?verified" group-title="Kids",Garfield & Friends (688p)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f176-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68c3c9ce-0e68-43fa-ade2-43491d9d88e2
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://i.imgur.com/blyIYwR.jpeg?verified" group-title="Premium",HBO 2 (720p)
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
