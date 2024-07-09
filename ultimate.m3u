@@ -87,11 +87,11 @@ https://jmp2.uk/SamsungTVPlus/USBD700012OA.m3u8
 https://jmp2.uk/SamsungTVPlus/USBB32000251N.m3u8
 #EXTINF:-1 tvg-id="VICETV.us" tvg-logo="https://i.imgur.com/lj04RG5.jpeg?verified" group-title="TV Series",Vice TV
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="NASATVMedia.us" group-title="TV Series",NASA TV Media (720p)
+#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-logo="https://i.imgur.com/3YmZVg1.jpeg?verified" group-title="TV Series",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://i.imgur.com/lofSS3s.jpeg?verified" group-title="TV Series",NASA TV (720p)
+#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://i.imgur.com/kG74Jcx.jpeg?verified" group-title="TV Series",NASA TV (720p)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="NASATVUHD.us" group-title="TV Series",NASA TV UHD (2160p)
+#EXTINF:-1 tvg-id="NASATVUHD.us" tvg-logo="https://i.imgur.com/9gqZqp9.jpeg?verified" group-title="TV Series",NASA TV UHD (2160p)
 https://endpnt.com/hls/nasa4k60/playlist.m3u8
 
 
