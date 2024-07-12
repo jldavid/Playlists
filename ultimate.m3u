@@ -63,10 +63,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://i.imgur.com/blyIYwR.jpeg?verified" group-title="Premium",HBO 2 (720p)
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.imgur.com/oK6P9HZ.jpeg?verified" group-title="Premium",TNT (720p)
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHD" tvg-logo="https://i.imgur.com/Xl0R2sq.jpeg?verified" group-title="Premium",Discovery HD (1080p)
 https://raw.githubusercontent.com/jldavid/Playlists/main/DiscoveryHD.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-logo="https://i.imgur.com/yZJzSov.jpeg?verified" group-title="Premium",Food Network (720p)
+https://raw.githubusercontent.com/jldavid/Playlists/main/FoodNetwork.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.imgur.com/oK6P9HZ.jpeg?verified" group-title="Premium",TNT (720p)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
 #EXTINF:-1 channel-id="samsung-USAJ26000054W" tvg-id="USAJ26000054W" tvg-logo="https://i.imgur.com/6mpMmBW.jpeg?verified" group-title="Premium",Paramount Movies (720p)
 https://jmp2.uk/SamsungTVPlus/USAJ26000054W.m3u8
 
